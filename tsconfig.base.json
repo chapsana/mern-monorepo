@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@chapsana/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@chapsana/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@chapsana/shared-components": ["libs/shared-components/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

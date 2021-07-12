@@ -23,6 +23,12 @@
     }
   },
   "projects": {
+    "api": {
+      "tags": []
+    },
+    "api-interfaces": {
+      "tags": []
+    },
     "myap": {
       "tags": []
     },
@@ -30,10 +36,7 @@
       "tags": [],
       "implicitDependencies": ["myap"]
     },
-    "api": {
-      "tags": []
-    },
-    "api-interfaces": {
+    "shared-components": {
       "tags": []
     }
   }
