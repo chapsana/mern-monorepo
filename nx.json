@@ -36,6 +36,13 @@
       "tags": [],
       "implicitDependencies": ["myap"]
     },
+    "nextapp": {
+      "tags": []
+    },
+    "nextapp-e2e": {
+      "tags": [],
+      "implicitDependencies": ["nextapp"]
+    },
     "shared-components": {
       "tags": []
     }

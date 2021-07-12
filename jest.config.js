@@ -3,5 +3,6 @@ module.exports = {
     '<rootDir>/apps/myap',
     '<rootDir>/apps/api',
     '<rootDir>/libs/shared-components',
+    '<rootDir>/apps/nextapp',
   ],
 };
